@@ -9,5 +9,5 @@ Use Cross Validation
 
 Best Accuracy 97.43%
 
-link of Kaggle Note Book:
+link of Kaggle NoteBook:
 https://www.kaggle.com/ahmadrezasezavar/parkinson-s-disease-machine-learning-97-43
